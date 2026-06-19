@@ -21,13 +21,12 @@
 title: Xueyun Luo
 email: xl777@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my website! I'm Xueyun Luo, a PhD candidate at SC Johnson College of Business, Cornell, advised by Prof. Chris Forman. I am on the 2026-27 academic job market. 
-  
-  My research interests lie at the intersection of strategy and innovation. Specifically, my research focuses on intellectual property commercialization strategy in startups and established companies alike. 
-  Professors Juan Alcácer, Shane Greenstein, and Maria Roche are my committee members. Prior to joining Cornell, I graduated with a Bachelor Degree in Sociology from Peking University.
+  Welcome to my website! I'm Xueyun Luo, a PhD candidate at SC Johnson College of Business, Cornell,
+  advised by Prof. Chris Forman. I am on the 2026-27 academic job market. My research focuses on
+  technology adoption and labor markets, and platform governance and supply-side reallocation.
 
-baseurl: "/xueyunluo.github.io"
-url: "https://serena9070.github.io"
+baseurl: ""
+url: "https://xueyunluo.github.io"
 #witter_username: jekyllrb
 #github_username:  jekyll
 
