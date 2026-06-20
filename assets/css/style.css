@@ -449,6 +449,18 @@ table td {
 }
 
 /**
+ * CV page: hide iframe on mobile, show fallback link instead
+ */
+@media screen and (max-width: 768px) {
+  .cv-iframe {
+    display: none;
+  }
+  .cv-mobile-fallback {
+    display: block !important;
+  }
+}
+
+/**
  * Syntax highlighting styles
  */
 .highlight {
