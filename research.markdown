@@ -134,5 +134,5 @@ permalink: /research/
 
 <h2 style="color: #b31b1b; font-size: 22px; letter-spacing: 1.5px; ">WORK IN PROGRESS</h2>
 <p><span>"Does Generative AI Break the Career Ladder? Evidence from 36 Million Job Transitions", with Ruyu Chen</span></p>
-<p><span>"Paywall content and Creator Monetization Strategy", with Guangrui (Kayla) Li, Xiaoquan (Michael) Zhang</span></p>
+<p><span>"Creator Monetization Strategy and Bargaining Power in the Age of Generative AI", with Guangrui (Kayla) Li, Xiaoquan (Michael) Zhang</span></p>
 <p><span>"Online Review, State Dependence, and Consumer Decision-making: Evidence from Restaurant Industry", with Chris Forman, Mohammad Rahman, Weiguang Wang, Natasha Zhang Foutz</span></p>
