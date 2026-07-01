@@ -67,7 +67,7 @@ permalink: /research/
 
 <!-- 3. Sub-details -->
 <ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
-  <li>Conference Presentation: SCECR (2025), CSWIM (2026)*</li>
+  <li>Conference Presentation: SCECR (2025), ISS-ISR Paper Development Workshop (2025), CSWIM (2026)</li>
 </ul>
 
 <!-- 1. Citation Text (Static) -->
@@ -127,7 +127,7 @@ permalink: /research/
 
 <!-- 3. Sub-details -->
 <ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
-  <li>Conference Presentation: CCC Doctoral Conference (2025), FSRDC (2025), SMS (2025), ZEW (2026)*, AOM (2026)*</li>
+  <li>Conference Presentation: CCC Doctoral Conference (2025), FSRDC (2025), SMS (2025), ZEW (2026), AOM (2026)*</li>
 </ul>
 
 
