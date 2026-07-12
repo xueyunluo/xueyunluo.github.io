@@ -67,7 +67,7 @@ permalink: /research/
 
 <!-- 3. Sub-details -->
 <ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
-  <li>Conference Presentation: SCECR (2025), ISS-ISR Paper Development Workshop (2025), CSWIM (2026)</li>
+  <li>Conference Presentation: SCECR (2025), ISS-ISR Paper Development Workshop (2025), CSWIM (2026), INFORMS (2026)*</li>
 </ul>
 
 <!-- 1. Citation Text (Static) -->
@@ -132,7 +132,7 @@ permalink: /research/
 
 
 
-<h2 style="color: #b31b1b; font-size: 22px; letter-spacing: 1.5px; ">WORK IN PROGRESS</h2>
+<h2 style="color: #b31b1b; font-size: 22px; letter-spacing: 1.5px; ">SELECTED WORK IN PROGRESS</h2>
 <p><span>"Does Generative AI Break the Career Ladder? Evidence from 36 Million Job Transitions", with Ruyu Chen</span></p>
 <p><span>"Creator Monetization Strategy and Bargaining Power in the Age of Generative AI", with Guangrui (Kayla) Li, Xiaoquan (Michael) Zhang</span></p>
 <p><span>"Online Review, State Dependence, and Consumer Decision-making: Evidence from Restaurant Industry", with Chris Forman, Mohammad Rahman, Weiguang Wang, Natasha Zhang Foutz</span></p>
