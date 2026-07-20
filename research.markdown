@@ -35,6 +35,7 @@ permalink: /research/
 <!-- 3. Sub-details -->
 <ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
   <li>Conference Presentation: CODE (2022), DRUID (2023), INFORMS (2023)</li>
+  <li>Media Coverage: <a href="https://www.washingtonpost.com/outlook/2022/08/05/judges-rely-wikipedia-their-opinions-new-study-finds/">The Washington Post</a>, <a href="https://www.independent.co.uk/tech/judges-wikipedia-articles-influenced-decisions-b2133110.html">The Independent</a>, <a href="https://news.mit.edu/news-clip/independent-0">MIT News</a>, <a href="https://www.techtimes.com/articles/278639/20220730/wikipedia-articles-influence-judges-reasoning-over-20-study.htm">Tech Times</a></li>
 </ul>
 
 
