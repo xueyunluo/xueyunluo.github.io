@@ -97,7 +97,7 @@ permalink: /research/
 
 <!-- 3. Sub-details -->
 <ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
-  <li>Conference Presentation: WISE (2025), WINDS (2026), SCECR (2026), Platform Strategy Research Symposium (2026)*</li>
+  <li>Conference Presentation: WISE (2025), WINDS (2026), SCECR (2026), Platform Strategy Research Symposium (2026)</li>
 </ul>
 
 
@@ -105,7 +105,7 @@ permalink: /research/
 <p>
   <b><a style="color: inherit; text-decoration: none;">Information Technology Adoption, Wages and Human Capital Flows: The Case of Electronic Networks</a></b><br>
   Xueyun Luo, Natarajan Balasubramanian, Chris Forman, Jagadeesh Sivadasan<br>
-  Under Review at <em>Management Science</em>
+  Major Revision at <em>Management Science</em>
 </p>
 
 <!-- 2. The Abstract Toggle Bar -->
@@ -128,7 +128,7 @@ permalink: /research/
 
 <!-- 3. Sub-details -->
 <ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
-  <li>Conference Presentation: CCC Doctoral Conference (2025), FSRDC (2025), SMS (2025), ZEW (2026), AOM (2026)*</li>
+  <li>Conference Presentation: CCC Doctoral Conference (2025), FSRDC (2025), SMS (2025), ZEW (2026), AOM (2026)</li>
 </ul>
 
 
