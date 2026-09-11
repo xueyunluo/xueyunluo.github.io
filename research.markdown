@@ -43,6 +43,31 @@ permalink: /research/
 
 <!-- 1. Citation Text (Static) -->
 <p>
+  <b><a style="color: inherit; text-decoration: none;">Supplier Scale, Competition, and Consumer Experience in Platforms</a></b><br>
+  Xueyun Luo, Chris Forman, Mohammad Rahman<br>
+</p>
+
+<!-- 2. The Abstract Toggle Bar -->
+<details style="cursor: pointer; outline: none; margin-bottom: 20px;">
+  <summary style="list-style: none; color: #6c757d; font-size: 0.9em; display: flex; align-items: center; width: 100%;">
+    <i class="fas fa-caret-right" style="margin-right: 10px; color: #000;"></i>
+    Abstract
+  </summary>
+  
+  <div style="margin-top: 10px; color: #666; padding-left: 20px; border-left: 2px solid #ddd;">
+    The relationship between supply-side competition and platform market dynamics has long been debated, yet the specific role of supplier scale remains underexplored. In this paper, we empirically study how competition from large-scale suppliers influences platform market dynamics and, in turn, a platform's ability to compete with outside options. Using Airbnb as an example, we show that restricting large-scale suppliers yields only transient benefits to price, demand, and revenue for existing suppliers. We provide evidence that these transient gains are accompanied by a decline in average consumer experience and an increase in demand for outside options. These results suggest that the competition among small individual suppliers alone cannot maintain the quality standards necessary to rival external options, underscoring the importance of large-scale suppliers for platform sustainability in the long run. We further find that <em>Superhost</em> listings maintain their effort as competition weakens, but this sustained effort does not translate into greater demand or revenue, highlighting a limitation of online reputation systems. Our findings highlight the critical role that large-scale suppliers play in sustaining platform growth by enhancing consumer experience.  
+    </div>
+</details>
+
+<!-- 3. Sub-details -->
+<ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
+  <li>Conference Presentation: WISE (2025), WINDS (2026), SCECR (2026), Platform Strategy Research Symposium (2026), CIST (2026)*</li>
+</ul>
+
+
+
+<!-- 1. Citation Text (Static) -->
+<p>
   <b>Paywall Pitfalls: Engagement Costs on the Online User-Generated-Content Platforms</b> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5469006">[<em>Available Online</em>]</a><br>
   Xueyun Luo, Guangrui (Kayla) Li, Xiaoquan (Michael) Zhang<br>
   Major Revision at <em>Management Science</em>
@@ -69,35 +94,6 @@ permalink: /research/
 <!-- 3. Sub-details -->
 <ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
   <li>Conference Presentation: SCECR (2025), ISS-ISR Paper Development Workshop (2025), CSWIM (2026), INFORMS (2026)*</li>
-</ul>
-
-<!-- 1. Citation Text (Static) -->
-<p>
-  <b><a style="color: inherit; text-decoration: none;">Supplier Scale, Competition, and Consumer Experience in Platforms</a></b><br>
-  Xueyun Luo, Chris Forman, Mohammad Rahman<br>
-</p>
-
-<!-- 2. The Abstract Toggle Bar -->
-<details style="cursor: pointer; outline: none; margin-bottom: 20px;">
-  <summary style="list-style: none; color: #6c757d; font-size: 0.9em; display: flex; align-items: center; width: 100%;">
-    <i class="fas fa-caret-right" style="margin-right: 10px; color: #000;"></i>
-    Abstract
-  </summary>
-  
-  <div style="margin-top: 10px; color: #666; padding-left: 20px; border-left: 2px solid #ddd;">
-    The relationship between supply-side competition and platform market dynamics has long been debated, yet the specific role of supplier scale remains underexplored. 
-    In this paper, we empirically study how competition from large-scale suppliers influences platform market dynamics and, in turn, a platform's ability to compete with 
-    outside options. Using Airbnb as an example, we show that restricting large-scale suppliers yields only transient benefits to price, demand, and revenue for existing suppliers. 
-    We provide evidence that these transient gains are accompanied by a decline in average consumer experience and a subsequent shift in demand toward outside alternatives. 
-    These results suggest that the competition among small individual suppliers alone cannot maintain the quality standards necessary to rival external options, underscoring 
-    the long-term importance of large-scale suppliers for platform sustainability. Moreover, we find that not all suppliers are equally able to capitalize on the opportunities created by such restrictions. 
-    For example, Black hosts respond to the restriction of large-scale suppliers by raising prices more than other competitors, resulting in smaller gains in demand and revenue. Our findings highlight the critical role that large-scale suppliers play in sustaining platform growth by enhancing consumer experience.  
-    </div>
-</details>
-
-<!-- 3. Sub-details -->
-<ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
-  <li>Conference Presentation: WISE (2025), WINDS (2026), SCECR (2026), Platform Strategy Research Symposium (2026), CIST (2026)*</li>
 </ul>
 
 
