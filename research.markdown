@@ -61,7 +61,7 @@ permalink: /research/
 
 <!-- 3. Sub-details -->
 <ul style="list-style-type: disc; margin-left: 15px; margin-top: -15px; color: #6c757d; font-size: 0.9em;">
-  <li>Conference Presentation: WISE (2025), WINDS (2026), SCECR (2026), Platform Strategy Research Symposium (2026), CIST (2026)*</li>
+  <li>Conference Presentation: WISE (2025), WINDS (2026), SCECR (2026), Platform Strategy Research Symposium (2026), CIST (2026)*, ICIS (2026)*</li>
 </ul>
 
 
